@@ -1,0 +1,104 @@
+mer. mai 22 21:50:31 2024 - INFO - Attempting to load source file.
+mer. mai 22 21:50:31 2024 - INFO - Attempting to load synonyms file.
+mer. mai 22 21:50:33 2024 - ERROR - Failed to load synonyms file.
+mer. mai 22 21:50:44 2024 - INFO - Attempting to load source file.
+mer. mai 22 21:50:44 2024 - INFO - Attempting to load synonyms file.
+mer. mai 22 21:50:44 2024 - INFO - Saving processed result.
+mer. mai 22 21:50:44 2024 - INFO - Result saved successfully.
+mer. mai 22 21:50:46 2024 - INFO - Attempting to load source file.
+mer. mai 22 21:50:46 2024 - INFO - Attempting to load synonyms file.
+mer. mai 22 21:50:46 2024 - INFO - Saving processed result.
+mer. mai 22 21:50:46 2024 - INFO - Result saved successfully.
+mer. mai 22 21:50:47 2024 - INFO - Attempting to load source file.
+mer. mai 22 21:50:47 2024 - INFO - Attempting to load synonyms file.
+mer. mai 22 21:50:47 2024 - INFO - Saving processed result.
+mer. mai 22 21:50:47 2024 - INFO - Result saved successfully.
+mer. mai 22 21:50:48 2024 - INFO - Attempting to load source file.
+mer. mai 22 21:50:48 2024 - INFO - Attempting to load synonyms file.
+mer. mai 22 21:50:48 2024 - INFO - Saving processed result.
+mer. mai 22 21:50:48 2024 - INFO - Result saved successfully.
+mer. mai 22 21:50:59 2024 - INFO - Application exiting...
+jeu. mai 23 10:04:46 2024 - INFO - Application starting...
+jeu. mai 23 10:04:46 2024 - INFO - This is an information message
+jeu. mai 23 10:04:46 2024 - WARNING - This is a warning message
+jeu. mai 23 10:04:46 2024 - ERROR - This is an error message
+jeu. mai 23 10:04:57 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:04:57 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:04:58 2024 - ERROR - Failed to load synonyms file.
+jeu. mai 23 10:05:08 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:08 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:08 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:08 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:09 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:09 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:09 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:09 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:09 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:09 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:09 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:09 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:10 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:10 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:10 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:10 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:10 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:10 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:10 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:10 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:11 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:11 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:11 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:11 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:11 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:11 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:11 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:11 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:11 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:11 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:11 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:11 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:11 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:11 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:11 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:11 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:17 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:17 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:17 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:17 2024 - INFO - Result saved successfully.
+jeu. mai 23 10:05:17 2024 - INFO - Attempting to load source file.
+jeu. mai 23 10:05:17 2024 - INFO - Attempting to load synonyms file.
+jeu. mai 23 10:05:17 2024 - INFO - Saving processed result.
+jeu. mai 23 10:05:17 2024 - INFO - Result saved successfully.
+sam. mai 25 16:20:47 2024 - INFO - Application starting...
+sam. mai 25 16:20:47 2024 - INFO - This is an information message
+sam. mai 25 16:20:47 2024 - WARNING - This is a warning message
+sam. mai 25 16:20:47 2024 - ERROR - This is an error message
+sam. mai 25 16:21:02 2024 - INFO - Attempting to load source file.
+sam. mai 25 16:21:02 2024 - INFO - Attempting to load synonyms file.
+sam. mai 25 16:21:02 2024 - INFO - Saving processed result.
+sam. mai 25 16:21:02 2024 - INFO - Result saved successfully.
+sam. mai 25 16:21:02 2024 - INFO - Attempting to load source file.
+sam. mai 25 16:21:02 2024 - INFO - Attempting to load synonyms file.
+sam. mai 25 16:21:02 2024 - INFO - Saving processed result.
+sam. mai 25 16:21:02 2024 - INFO - Result saved successfully.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load source file.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load synonyms file.
+sam. mai 25 16:21:03 2024 - INFO - Saving processed result.
+sam. mai 25 16:21:03 2024 - INFO - Result saved successfully.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load source file.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load synonyms file.
+sam. mai 25 16:21:03 2024 - INFO - Saving processed result.
+sam. mai 25 16:21:03 2024 - INFO - Result saved successfully.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load source file.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load synonyms file.
+sam. mai 25 16:21:03 2024 - INFO - Saving processed result.
+sam. mai 25 16:21:03 2024 - INFO - Result saved successfully.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load source file.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load synonyms file.
+sam. mai 25 16:21:03 2024 - INFO - Saving processed result.
+sam. mai 25 16:21:03 2024 - INFO - Result saved successfully.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load source file.
+sam. mai 25 16:21:03 2024 - INFO - Attempting to load synonyms file.
+sam. mai 25 16:21:03 2024 - INFO - Saving processed result.
+sam. mai 25 16:21:03 2024 - INFO - Result saved successfully.
+sam. mai 25 16:21:04 2024 - INFO - Application exiting...
